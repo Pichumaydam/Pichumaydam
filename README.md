@@ -1,6 +1,6 @@
 Welcome to my GitHub!
 
-# About
+### About
 I am a mathematician/data scientist.
 
-[:email](anshengmay@gmail.com)
+:email:[email](anshengmay@gmail.com) :page_with_curl:[Resume](Resume) :thought_balloon:[LinkedIn](https://www.linkedin.com/in/shengmei-an)
