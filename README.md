@@ -1,6 +1,6 @@
-#### Welcome to my GitHub!
+### Welcome to my GitHub!
 
-### About
+#### About
 I am a mathematician/data scientist with experience in natural language processing, anomaly detection, image and signal processing. I am excited about the developments in machine learning and AI, and their applications in solving real-life problems! 
 
 <p align="center">
