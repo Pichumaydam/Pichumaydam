@@ -1,7 +1,7 @@
 #### Welcome to my GitHub!
 
 ### About
-I am a mathematician/data scientist.
+I am a mathematician/data scientist with experience in natural language processing, anomaly detection, image and signal processing. I am excited about the developments in machine learning and AI, and their applications in solving real-life problems! 
 
 <p align="center">
  📧 <a href='mailto: anshengmay@gmail.com' target='_blank'><b>Email</b></a> &nbsp; &nbsp;
